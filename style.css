@@ -1,0 +1,54 @@
+body {
+    background-color: lightblue;
+}
+
+.white {
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 5px 10px 5px 10px;
+
+}
+.black {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 5px 10px 5px 10px
+    
+}
+.horse {
+    position: absolute;
+    top: 10px;
+    left: 140px;
+}
+img {
+    position: fixed;
+    bottom: 10px;
+    right: 30px;
+}
+.first {
+    width: 300px;
+    height: 50px;
+    background-color: red;
+}
+.second {
+    width: 160px;
+    height: 50px;
+    background-color: blue;
+}
+.column1of2 {
+    float: left;
+    width: 620px;
+    margin: 10px;}
+
+.column2of2 {
+    float: left;
+    width: 300px;
+    margin: 10px;}
+
+.column3of3 {
+        float: left;
+        width: 300px;
+        margin: 10px;}
